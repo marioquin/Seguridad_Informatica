@@ -1,0 +1,86 @@
+body{
+	background-color: #dfdfdf;
+}
+.navbar-default{
+	background-color: #fff !important;
+}
+.footer{
+    height: 60px;
+    line-height: 60px;
+    background-color: #005883;
+    border-top: 3px solid #F2B80D;
+}
+.content-principal{
+	padding-top: 60px;
+	padding-bottom: 90px;
+}
+
+.widget {
+	height: 400px;
+	overflow-y:auto;
+	border: 1px solid #e7e7e7;
+}
+.fondo{	
+	background-color: #fff;
+}
+.espacio {
+  margin-left: 3px;
+}
+.tt{
+	margin-top: 0px;
+}
+.article_top{
+	padding-top: 20px;
+}
+.padding_bottom{
+	padding-bottom: 20px;
+}
+.margin_bottom{
+	margin-bottom: 20px;
+	/*Amarillo #F2B80D
+	  Azul #005883
+
+	  border-bottom: 1px solid rgba(0,0,0,0.25);
+
+	  color: #66757f;
+	*/
+}
+.ColorTt, .active a{
+	color: #005883 !important;
+	font-weight: bold;
+}
+
+.active a{
+	/*border-bottom: 2px solid #005883;*/
+	background-color: #fff !important;
+}
+a:hover {
+	/*border-bottom: 2px solid #005883;*/
+	color: #005883 !important;
+	font-weight: bold;
+}
+.navbar-default{
+	border-bottom: 1px solid rgba(0,0,0,0.25);
+}
+.text_span{
+	color: #fff !important;	
+}
+.navbar-brand {
+  background: url(../img/logoUNAD.png) center / contain no-repeat;
+  width: 200px;
+}
+.navbar-nav > li a{
+	color: #66757f;
+	font-weight: bold;
+}
+.img_autores{
+	height: 80px !important;
+}
+
+.bs-callout-info {
+    border-left-color: #005883 !important;
+}
+.bs-callout {
+    border: 1px solid #eee;
+    border-left-width: 5px;
+}
